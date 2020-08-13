@@ -5,7 +5,7 @@ I included the HTML code of my entire website in the **index.html** file.
 
 Now I included **style.css** to control the layout of my webpage,**normalize.css** that makes browsers render all elements more consistently and inline with more standards and **grid.css** to set up fluid grid in the basic HTML file.
 
-Then,in order to include various icons in my website I downloaded files such as *ionicons.eot*, *ionicons.min.css*,*ionicons.svg*,*ionicons.woff* from [here](https://ionicons.com/).
+Then,in order to include various icons in my website I downloaded files such as *ionicons.eot*, *ionicons.min.css*, *ionicons.svg*, *ionicons.woff* from [here](https://ionicons.com/).
 
 In **queries.css** file media queries to trigger different breakpoints are included.
 
