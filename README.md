@@ -1,5 +1,5 @@
 # KillerWebsite
-Hello there!Thought of sharing the *code* of **my first website** built!
+Hello there!Thought of sharing the `code` of **my first website** built!
 
 I included the HTML code of my entire website in the **index.html** file.
 
