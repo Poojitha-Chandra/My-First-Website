@@ -15,7 +15,7 @@ To make sticky navigation work I used a simple jQuery plugin called **jquery.way
 
 In **script.js** I included some jQuery code for smooth scrolling effect which is taken from [here](https://css-tricks.com/snippets/jquery/smooth-scrolling/).
 
-Finally,I created a favicon for my website from [here](https://realfavicongenerator.net/)!.
+Finally,I created a favicon for my website from [here](https://realfavicongenerator.net/)!
 
 I excluded the images used in my website to mention in the repository!
 
