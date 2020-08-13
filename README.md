@@ -1,5 +1,5 @@
 # KillerWebsite
-Hello there!Thought of sharing the `code` of **my first website** built! [img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.formilla.com%2Fblog%2Fwhat-makes-a-good-website%2F&psig=AOvVaw3XtPFpQE-MADSnN3W4CB1r&ust=1597415755719000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDixc-zmOsCFQAAAAAdAAAAABAI)
+Hello there!Thought of sharing the `code` of **my first website** built! ![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.formilla.com%2Fblog%2Fwhat-makes-a-good-website%2F&psig=AOvVaw3XtPFpQE-MADSnN3W4CB1r&ust=1597415755719000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDixc-zmOsCFQAAAAAdAAAAABAI)
 
 I included the HTML code of my entire website in the **index.html** file.
 
